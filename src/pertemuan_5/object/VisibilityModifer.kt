@@ -1,9 +1,9 @@
 package pertemuan_5.`object`
 
-
+import Pertemuan5.Class.Teacher
 
 fun main() {
-    val teacher = Teacher(name: String) {
-        println("teach")
-    }
+    val teacher = Teacher("plugin")
+
+    println(teacher.name)
 }

@@ -17,6 +17,8 @@ fun main() {
     }
 
 
-    println("Rata-rata nilai: $rataRata")
-    println("Grade: $grade")
-}
+
+
+        println("Rata-rata nilai: $rataRata")
+        println("Grade: $grade")
+    }
